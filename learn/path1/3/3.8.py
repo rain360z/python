@@ -6,6 +6,5 @@ countrys.reverse()
 print(countrys)
 countrys.sort
 print(countrys)
-
-
+print(f"Long list = {len(countrys)}" )
 #print(countrys.sort(reverse=True))
